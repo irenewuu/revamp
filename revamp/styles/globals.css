@@ -55,8 +55,7 @@ p, button {
   /* height: 100vh; */
 }
 .backgroundDiv {
-  
-  min-width:342px;
+  width:342px;
   min-height:600px;
   background-color: #fff;
   border-style: solid;
@@ -216,4 +215,20 @@ p, button {
   color: #14455A;
   margin-top:-10px;
   margin-bottom: 20px;
+}
+
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: black;
+  word-wrap: break-word;
+  margin: 0;
+}
+.alignCenter {
+  text-align: center;
+  padding: 0 10px;
+}
+.margin-20{
+  margin: 20px 0;
 }
